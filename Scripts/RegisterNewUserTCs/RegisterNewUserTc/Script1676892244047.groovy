@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/new_account')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__shop_id'), '828282')
+WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__shop_id'), '838383')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__store_name'), 'الفضل والشكر')
+WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__store_name'), 'الرضا والحمد')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__user_name'), 'test77')
+WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__user_name'), 'test66')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__password'), 'RigbBhfdqODKcAsiUrg+1Q==')
 
