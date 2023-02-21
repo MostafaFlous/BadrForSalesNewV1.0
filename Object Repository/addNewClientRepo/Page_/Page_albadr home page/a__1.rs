@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>9597b06f-43f6-485a-8187-0024dfd373c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_side_bar']/aside/ul/li[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b72aabc7-2bd4-470e-bc41-b0d8d20ab174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>8055cb03-462d-4ca5-be97-21815460aa4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://badrforsales-test.souqalbadr.top/clients/create</value>
+      <webElementGuid>8e97d09d-c38e-41ff-8845-d6105d6275f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> اضافة عميل أو مورد</value>
+      <webElementGuid>d0660003-7d98-430f-80aa-92e8f61f592f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_side_bar&quot;)/aside[@class=&quot;global-aside&quot;]/ul[@class=&quot;sidebar list-group list-unstyled&quot;]/li[@class=&quot;list-group-item dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>852e68fb-46c1-45ba-bd66-7bc4035de67b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_side_bar']/aside/ul/li[2]/div/a</value>
+      <webElementGuid>65520e3b-2dbc-4870-9c03-6c8f80d999b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'اضافة عميل أو مورد')]</value>
+      <webElementGuid>3e6a8f38-90e7-4510-90e5-0fc36af7c489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::a[3]</value>
+      <webElementGuid>fbfb5fc0-6797-4914-b37a-b8c51bb92b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='كل العملاء و الموردين'])[1]/preceding::a[1]</value>
+      <webElementGuid>77c6b304-bbde-414f-81fc-dab4e7dc400c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جدول مديونية العملاء'])[1]/preceding::a[2]</value>
+      <webElementGuid>0c088fbe-a49c-4352-8c46-e593e7bc59f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='اضافة عميل أو مورد']/parent::*</value>
+      <webElementGuid>995bb140-c5e5-4fb8-a737-6283955677a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://badrforsales-test.souqalbadr.top/clients/create')]</value>
+      <webElementGuid>f55a20e2-5c63-45f5-8573-19d06778d90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a</value>
+      <webElementGuid>8fdb98d4-7a05-485f-b469-bdacf126302d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://badrforsales-test.souqalbadr.top/clients/create' and (text() = ' اضافة عميل أو مورد' or . = ' اضافة عميل أو مورد')]</value>
+      <webElementGuid>64de1da0-5305-442d-9284-24c993dc83bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

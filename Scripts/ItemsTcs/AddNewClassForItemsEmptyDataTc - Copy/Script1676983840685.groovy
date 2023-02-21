@@ -19,15 +19,31 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/new_account')
+WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__shop_id'), '858585')
+WebUI.setText(findTestObject('Object Repository/addClassEmptyData/Page_/input__user_name'), 'flous')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__store_name'), 'الرضا')
+WebUI.setEncryptedText(findTestObject('Object Repository/addClassEmptyData/Page_/input__password'), 'aeHFOx8jV/A=')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__user_name'), 'test101')
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/button_'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__password'), 'RigbBhfdqODKcAsiUrg+1Q==')
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_albadr home page/a_'))
 
-WebUI.click(findTestObject('Object Repository/RegisterNewUserRepo/Page_/button_'))
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_albadr home page/a__1'))
+
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/button__1'))
+
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/button__1_2'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/button__1_2'))
+
+WebUI.rightClick(findTestObject('Object Repository/addClassEmptyData/Page_/input__image'))
+
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/input__name'))
+
+WebUI.click(findTestObject('Object Repository/addClassEmptyData/Page_/button__1_2_3'))
+
+WebUI.closeBrowser()
 

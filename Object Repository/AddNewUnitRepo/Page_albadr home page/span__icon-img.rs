@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__icon-img</name>
+   <tag></tag>
+   <elementGuidId>e0a9a11f-c9a2-4556-a087-745b5ec884da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_side_bar']/aside/ul/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f4f4ea9-709f-4168-9817-bd24e384f8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-img</value>
+      <webElementGuid>5f2e070f-af55-4560-a59d-6048dcf3bb48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_side_bar&quot;)/aside[@class=&quot;global-aside&quot;]/ul[@class=&quot;sidebar list-group list-unstyled&quot;]/li[@class=&quot;list-group-item dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;icon-img&quot;]</value>
+      <webElementGuid>aefcaf39-4929-47b9-b13e-a0a804c7df6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_side_bar']/aside/ul/li[5]/a/span</value>
+      <webElementGuid>ba6c4e69-5bca-4644-aa63-764a406751e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='عرض مرتجع مشتريات'])[1]/following::span[1]</value>
+      <webElementGuid>1703c50c-b03f-451a-8ec6-1fed73b5c6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اضافة مرتجع مشتريات'])[1]/following::span[1]</value>
+      <webElementGuid>2b31a58b-99eb-49d5-aa34-a6a52f796c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الاصناف'])[1]/preceding::span[1]</value>
+      <webElementGuid>219b827f-f8b3-4ab9-a4e3-3163388cff7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التصنيفات'])[1]/preceding::span[1]</value>
+      <webElementGuid>8fa8c61e-99c2-4524-ac8c-b8ff3d1549b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[5]/a/span</value>
+      <webElementGuid>eb2fba9c-dc9e-4282-9504-12dd3155338b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
