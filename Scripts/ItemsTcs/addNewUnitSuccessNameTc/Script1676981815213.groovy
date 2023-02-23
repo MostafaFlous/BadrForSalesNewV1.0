@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_albadr home pa
 
 WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1'))
 
-WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'كيس')
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'بالته')
 
 WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1_2'))
 
