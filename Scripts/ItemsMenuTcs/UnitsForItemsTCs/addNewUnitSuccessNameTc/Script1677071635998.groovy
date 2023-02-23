@@ -21,11 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/LoginRepo/Page_/input__user_name'), 'flous')
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__user_name'), 'flous')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LoginRepo/Page_/input__password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/input__customCheck1'))
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button_'))
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/button_'))
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_albadr home page/span__icon-img'))
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_albadr home page/a_'))
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'باشا')
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1_2'))
+
+WebUI.verifyElementText(findTestObject('AddNewUnitRepo/Page_/ul_addUnitSuccess'), 'تم حفظ البيانات بنجاح')
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>1f8ee6b9-1914-478d-b264-cc73a10a7faf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default.dropdown-toggle > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sale_unit_div']/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c32e7061-28f4-4714-96fd-5ae8556c8622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>التصنيف الرئيسي</value>
+      <webElementGuid>9af2f1ec-b18b-4243-8810-9b7eb0ff3978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sale_unit_div&quot;)/div[@class=&quot;dropdown bts_dropdown&quot;]/button[@class=&quot;btn btn-default dropdown-toggle&quot;]/span[1]</value>
+      <webElementGuid>b351d2be-04d3-4677-b8ae-9c7045147201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sale_unit_div']/div/button/span</value>
+      <webElementGuid>82394478-0a8d-44d0-83b5-a87c4fc13548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التصنيف'])[1]/following::span[1]</value>
+      <webElementGuid>a14bd170-b3a7-466b-9938-e73fa015e1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الصورة'])[2]/following::span[1]</value>
+      <webElementGuid>b896acbe-0c25-4bfb-873b-9a151038655c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التصنيف الرئيسي'])[3]/preceding::span[1]</value>
+      <webElementGuid>652a1ff7-50c1-4ef2-9229-0cfe029f7a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='القسم الرئيسى'])[3]/preceding::span[1]</value>
+      <webElementGuid>32e8eda1-5322-476b-b10b-6dc1be5b6bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>98284245-d532-49a8-a6dd-81354d8b0014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'التصنيف الرئيسي' or . = 'التصنيف الرئيسي')]</value>
+      <webElementGuid>3eabef94-33ef-4fac-8b01-9714fb62e436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

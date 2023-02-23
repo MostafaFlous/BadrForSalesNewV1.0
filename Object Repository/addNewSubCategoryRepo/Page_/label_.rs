@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>5696f79c-8043-4463-96e2-5c3ab854cd6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sale_unit_div']/div/ul/li[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>626a8e1c-8731-4f5d-bee5-8ebae6ca48c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>القسم الرئيسى</value>
+      <webElementGuid>4622f2cc-634a-4512-812b-b5a725ce5022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sale_unit_div&quot;)/div[@class=&quot;dropdown bts_dropdown show&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[2]/label[1]</value>
+      <webElementGuid>b7859115-56df-4453-910a-dba3c4426126</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sale_unit_div']/div/ul/li[2]/label</value>
+      <webElementGuid>a56f888b-ef9c-4e83-8464-b281b6ef6381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التصنيف الرئيسي'])[3]/following::label[1]</value>
+      <webElementGuid>0ac7a110-036b-4d9a-b43c-b6cfcbb2d865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التصنيف الرئيسي'])[2]/following::label[2]</value>
+      <webElementGuid>e36aa933-f38a-4757-99cd-89269f677e7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='سمن'])[3]/preceding::label[1]</value>
+      <webElementGuid>e9cf9c08-0479-4d74-ad99-36ad7adebfb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='زيوت'])[3]/preceding::label[2]</value>
+      <webElementGuid>23be805a-d7ee-4558-88ec-7f731d459f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label</value>
+      <webElementGuid>4a9c825b-1989-4628-a92d-a2fd0eea0661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'القسم الرئيسى' or . = 'القسم الرئيسى')]</value>
+      <webElementGuid>c3d5778e-6faf-41f0-814f-98415b881b00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

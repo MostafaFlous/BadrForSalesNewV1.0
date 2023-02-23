@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>17232cdc-211c-4990-841b-3f3b308baa50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='تعديل'])[5]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8d8307c6-168e-4c84-ad8a-78d2de29859f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-md btn-danger text-light</value>
+      <webElementGuid>92682f26-c33d-4a73-9a59-3343ae4aec1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>1afa8ffc-2320-46ce-9b08-c66e42d9418a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#deleteElementModal</value>
+      <webElementGuid>5df9a4eb-416b-4945-84a3-833502fef66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href</name>
+      <type>Main</type>
+      <value>226</value>
+      <webElementGuid>3100733d-a208-4b5d-b991-206a81e0b51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                        حذف 
+                                                </value>
+      <webElementGuid>918c7291-efda-421d-8bd0-6f65fc1883c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;global-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 no-padding-right&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container-fluid bg-white p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-xs-12&quot;]/table[@class=&quot;table table-responsive table-hover table-bordered&quot;]/tbody[1]/tr[@class=&quot;info&quot;]/td[4]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-md btn-danger text-light&quot;]</value>
+      <webElementGuid>6eaf2e47-0130-49ae-a46e-bc2a0c9bf750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تعديل'])[5]/following::a[1]</value>
+      <webElementGuid>8415fcf9-2095-4954-bb2e-eaeb4014ba8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تصنيف يجب حذفه'])[1]/following::a[2]</value>
+      <webElementGuid>e21f11ad-65a3-4440-adca-fe2b0dbf9ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='القسم الرئيسى'])[2]/preceding::a[1]</value>
+      <webElementGuid>621bd0fe-b06c-4517-ad1d-d4f6ff986bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/div/a[2]</value>
+      <webElementGuid>a9628899-560b-4fce-9d80-e8c92c058e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                                                        حذف 
+                                                ' or . = '
+                                                        حذف 
+                                                ')]</value>
+      <webElementGuid>5935cd14-5e3c-4daa-a278-c753c4680aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>هنا يتم اضافة تصنيف جديد وحذفه فى نفس حالة الاختبار حتى لا تتاثر بيانات البرنامج</description>
+   <name>DeleteCategoryTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1f6770a-34ac-4ba2-9d84-8fb09e2dc96e</testCaseGuid>
+</TestCaseEntity>

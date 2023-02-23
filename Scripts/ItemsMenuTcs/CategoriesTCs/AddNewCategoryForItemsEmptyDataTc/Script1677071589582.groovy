@@ -21,11 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/LoginRepo/Page_/input__user_name'), 'flous')
+WebUI.setText(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/input__user_name'), 'flous')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LoginRepo/Page_/input__password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/input__password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/input__customCheck1'))
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/button_'))
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/button_'))
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_albadr home page/a_'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_albadr home page/a__1'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/button__1'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/button__1_2'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/input__arrange_type'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/button__1_2'))
+
+WebUI.click(findTestObject('Object Repository/addnewCategoryEmptyName/Page_/button__1_2_3'))
+
+WebUI.closeBrowser()
 

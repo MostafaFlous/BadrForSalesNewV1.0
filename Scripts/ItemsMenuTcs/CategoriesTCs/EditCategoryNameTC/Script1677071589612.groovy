@@ -21,11 +21,27 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/LoginRepo/Page_/input__user_name'), 'flous')
+WebUI.setText(findTestObject('Object Repository/EditCategoryName/Page_/input__user_name'), 'flous')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LoginRepo/Page_/input__password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/EditCategoryName/Page_/input__password'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/input__customCheck1'))
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/button_'))
 
-WebUI.click(findTestObject('Object Repository/LoginRepo/Page_/button_'))
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_albadr home page/a_'))
+
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_albadr home page/a__1'))
+
+WebUI.doubleClick(findTestObject('Object Repository/EditCategoryName/Page_/input__name'))
+
+WebUI.setText(findTestObject('Object Repository/EditCategoryName/Page_/input__name'), 'القسم الرئيسى')
+
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/input__arrange_type'))
+
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/button__1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/EditCategoryName/Page_/ul_EditCategorySuccess'), 'تم التعديل بنجاح')
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
 
