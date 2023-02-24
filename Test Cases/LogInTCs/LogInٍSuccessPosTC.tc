@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Login to al badr</description>
-   <name>LogInTC</name>
+   <name>LogInٍSuccessPosTC</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>53d10bdb-cea4-44de-86e8-7bbc911dc445</testCaseGuid>

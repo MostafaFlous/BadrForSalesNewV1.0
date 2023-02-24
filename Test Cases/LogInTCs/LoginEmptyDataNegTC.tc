@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>عدم ادخال البيانات فى تسجيل الدخول</description>
+   <name>LoginEmptyDataNegTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f2c0a9c-a5e0-4af9-8a0c-d0a32678866a</testCaseGuid>
+</TestCaseEntity>
