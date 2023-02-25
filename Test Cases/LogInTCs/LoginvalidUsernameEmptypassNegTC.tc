@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>تسجيل الدخول بادخال اسم مستخدم صحيح وعدم ادخال كلمة المرور</description>
-   <name>LoginvalidUsernameEmptypassNeg</name>
+   <name>LoginvalidUsernameEmptypassNegTC</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c02c7155-65bf-4448-9b2f-56bf7fcca4be</testCaseGuid>

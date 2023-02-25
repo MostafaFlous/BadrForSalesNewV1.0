@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/new_account')
+WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__shop_id'), '858585')
+WebUI.setText(findTestObject('Object Repository/LoginInvalidUserNameInvalidPassNegRepo/Page_/input__user_name'), 'za3bola')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__store_name'), 'الرضا')
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginInvalidUserNameInvalidPassNegRepo/Page_/input__password'), 'aeHFOx8jV/A=')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__user_name'), 'test101')
+WebUI.click(findTestObject('Object Repository/LoginInvalidUserNameInvalidPassNegRepo/Page_/button_'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__password'), 'RigbBhfdqODKcAsiUrg+1Q==')
+WebUI.verifyElementText(findTestObject('Object Repository/LoginInvalidUserNameInvalidPassNegRepo/Page_/li_'), 'بيانات الاعتماد هذه غير متطابقة مع البيانات المسجلة لدينا.')
 
-WebUI.click(findTestObject('Object Repository/RegisterNewUserRepo/Page_/button_'))
+WebUI.closeBrowser()
 

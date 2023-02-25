@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>adding new user for 5 days</description>
-   <name>RegisterNewUserTc</name>
+   <name>RegisterNewUserToFirmBeginSuccessTc</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>7dc529b7-2dea-4af1-a8e0-deb8847eab20</testCaseGuid>
