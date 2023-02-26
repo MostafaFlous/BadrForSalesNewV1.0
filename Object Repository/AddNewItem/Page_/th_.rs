@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_</name>
+   <tag></tag>
+   <elementGuidId>e3cde5cf-c1dd-44d0-9669-c89cd740081e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='vats']/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>7e8894c7-0d8d-43a5-a650-135c69d8cb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>770b3358-8f21-4c3b-b6f3-849f7e49aee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>اسم الضريبة</value>
+      <webElementGuid>ed83c023-c5fa-45ea-a569-7dde906eb2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vats&quot;)/thead[1]/tr[1]/th[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>13b59e14-3de8-4b7e-9969-cdf02887ebb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='vats']/thead/tr/th</value>
+      <webElementGuid>f971344d-d7d0-4ef7-b199-4b5a70002205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nothing selected'])[2]/following::th[1]</value>
+      <webElementGuid>b2fa7af1-588f-447c-96a8-a54fb2602bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='قيمة الضريبة'])[1]/preceding::th[1]</value>
+      <webElementGuid>ac121b36-24d2-4fd5-8647-f13bfac1b6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إستخدام الضريبة'])[1]/preceding::th[2]</value>
+      <webElementGuid>3e33cdaa-8e20-4e45-83b8-a76e643df445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='اسم الضريبة']/parent::*</value>
+      <webElementGuid>9a21ef22-b18f-4895-9875-bd77d408c392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/table/thead/tr/th</value>
+      <webElementGuid>0a184933-c312-4f8b-aeab-32a15bdc018f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'اسم الضريبة' or . = 'اسم الضريبة')]</value>
+      <webElementGuid>a9061409-e3ed-4f23-9be5-10af9a993024</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

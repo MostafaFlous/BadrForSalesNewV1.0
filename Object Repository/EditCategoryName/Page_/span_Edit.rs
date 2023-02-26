@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit</name>
+   <tag></tag>
+   <elementGuidId>c7fd6a30-b11a-4b76-a31b-783b498c896b</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_/span_Edit.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='القسم الرئيسى'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyphicon.glyphicon-pencil</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_/span_Edit.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48612151-228a-430f-8d8b-be5011770a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-pencil</value>
+      <webElementGuid>4132eb5b-bc60-486b-9eb7-8d6b18726a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>96ab2b8e-8fad-4c59-9c31-c79489387912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>ccdbe3d3-3a0f-4da5-8470-f3c6c031c146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Remove this Element</value>
+      <webElementGuid>4ec2354d-2b77-4f92-a3d7-65cfbe198755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تعديل </value>
+      <webElementGuid>5c5adda2-0b9a-47c6-bd76-3845d886c631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;global-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 no-padding-right&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;container-fluid bg-white p-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-xs-12&quot;]/table[@class=&quot;table table-responsive table-hover table-bordered&quot;]/tbody[1]/tr[@class=&quot;info&quot;]/td[4]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-md btn-success text-light&quot;]/span[@class=&quot;glyphicon glyphicon-pencil&quot;]</value>
+      <webElementGuid>9845970f-9dd6-44fd-b148-6b6aa0a41c0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='القسم الرئيسى'])[1]/following::span[1]</value>
+      <webElementGuid>4a641985-2b4c-4805-87fb-7653d06fd3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العمليات'])[1]/following::span[1]</value>
+      <webElementGuid>1de6a259-7e26-4ae9-ace6-5fe2db589788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حذف'])[1]/preceding::span[1]</value>
+      <webElementGuid>525975d0-a21f-4b70-853b-ea551eda61cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='زيوت الزيتون'])[1]/preceding::span[2]</value>
+      <webElementGuid>0b4537fb-b453-445c-bd25-67502641da7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='تعديل']/parent::*</value>
+      <webElementGuid>d896a290-5c0b-42b9-850b-ac60981d5258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/a/span</value>
+      <webElementGuid>5364d2bc-df08-48d5-a372-40fa5e631f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Remove this Element' and (text() = 'تعديل ' or . = 'تعديل ')]</value>
+      <webElementGuid>196285a9-73a6-414e-9d0a-90c2a9762440</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

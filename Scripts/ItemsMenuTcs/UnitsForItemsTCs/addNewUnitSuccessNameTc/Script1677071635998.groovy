@@ -33,7 +33,31 @@ WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_albadr home pa
 
 WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1'))
 
-WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'باشا')
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'علبة')
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1_2'))
+
+WebUI.verifyElementText(findTestObject('AddNewUnitRepo/Page_/ul_addUnitSuccess'), 'تم حفظ البيانات بنجاح')
+
+WebUI.delay(2)
+
+WebUI.refresh()
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'كيلو')
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1_2'))
+
+WebUI.verifyElementText(findTestObject('AddNewUnitRepo/Page_/ul_addUnitSuccess'), 'تم حفظ البيانات بنجاح')
+
+WebUI.delay(2)
+
+WebUI.refresh()
+
+WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewUnitRepo/Page_/input__name'), 'كرتونة')
 
 WebUI.click(findTestObject('Object Repository/AddNewUnitRepo/Page_/button__1_2'))
 

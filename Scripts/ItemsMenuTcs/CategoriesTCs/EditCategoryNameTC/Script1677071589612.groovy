@@ -31,7 +31,9 @@ WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_albadr home 
 
 WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_albadr home page/a__1'))
 
-WebUI.doubleClick(findTestObject('Object Repository/EditCategoryName/Page_/input__name'))
+WebUI.click(findTestObject('EditCategoryName/Page_/span_Edit'))
+
+WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/input__name'))
 
 WebUI.setText(findTestObject('Object Repository/EditCategoryName/Page_/input__name'), 'القسم الرئيسى')
 
@@ -39,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/input__arra
 
 WebUI.click(findTestObject('Object Repository/EditCategoryName/Page_/button__1'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/EditCategoryName/Page_/ul_EditCategorySuccess'), 'تم التعديل بنجاح')
+WebUI.verifyElementText(findTestObject('EditCategoryName/Page_/ul_EditCategorySuccess'), 'تم التعديل بنجاح')
 
 WebUI.delay(2)
 

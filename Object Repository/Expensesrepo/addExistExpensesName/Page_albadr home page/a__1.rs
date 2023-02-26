@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>2ba547ce-f299-4673-9655-873921de8468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_side_bar']/aside/ul/li[7]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-menu.dropdown-menu-side.show > a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ba886ae1-a2f0-4102-b50a-2e60c54a4961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>9b8b54d8-689c-459e-8bfd-42716a8d90f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://badrforsales-test.souqalbadr.top/spends/add_spend</value>
+      <webElementGuid>bd8a5e06-3226-4122-9d04-b2d00eb8d75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>بند المصروفات</value>
+      <webElementGuid>118154bf-ec08-4f62-91c5-2d318f4d023b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_side_bar&quot;)/aside[@class=&quot;global-aside&quot;]/ul[@class=&quot;sidebar list-group list-unstyled&quot;]/li[@class=&quot;list-group-item dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-side show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>533a0269-af80-46cd-add1-9d1cc67d1afa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_side_bar']/aside/ul/li[7]/div/a</value>
+      <webElementGuid>d9f0e111-18ab-4160-bc92-cfd62185e43c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'بند المصروفات')]</value>
+      <webElementGuid>af1ecf7f-dd50-4ea1-af27-e99c6d263b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='عرض أوامر الصرف'])[1]/following::a[2]</value>
+      <webElementGuid>873d4c34-6c9d-48d5-8a24-2c60069ac7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التحويل بين المخازن'])[1]/following::a[3]</value>
+      <webElementGuid>519633ff-118a-4a56-b591-0766d3ee6073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='بند الايرادات'])[1]/preceding::a[1]</value>
+      <webElementGuid>00ad26d6-cfb7-42c0-b3e9-baa72266e3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل مصروفات'])[1]/preceding::a[2]</value>
+      <webElementGuid>d34c836b-57e5-4afe-98d7-2181d2c61642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='بند المصروفات']/parent::*</value>
+      <webElementGuid>d8b5bb93-48be-4645-9ab3-b2e721aa1c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://badrforsales-test.souqalbadr.top/spends/add_spend')]</value>
+      <webElementGuid>e4a4a40c-d540-4659-954f-6c38ac15ec7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div/a</value>
+      <webElementGuid>54f1c419-c42d-48f6-8a89-a07aeebe4046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://badrforsales-test.souqalbadr.top/spends/add_spend' and (text() = 'بند المصروفات' or . = 'بند المصروفات')]</value>
+      <webElementGuid>7385c176-a5d2-47e6-bd64-67012026903a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

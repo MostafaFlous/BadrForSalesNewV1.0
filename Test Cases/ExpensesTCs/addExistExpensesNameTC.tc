@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>اضافة اسم مصروف موجود من قبل ويتم من خلال اضافة مصروف واعادة ادخال نفس الاسم وحذفه مباشرة بعدا لانتهاء حتى    يمكن تنفيذ نفس المهمه اكثر من مرة</description>
+   <name>addExistExpensesNameTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2338345-57fb-4965-ab28-cc3c5b6e8efc</testCaseGuid>
+</TestCaseEntity>

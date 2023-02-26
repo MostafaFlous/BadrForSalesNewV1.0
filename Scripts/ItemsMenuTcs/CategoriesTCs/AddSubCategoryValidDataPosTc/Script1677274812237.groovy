@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/addNewClassValidDataPos/Page_albad
 
 WebUI.click(findTestObject('Object Repository/addNewClassValidDataPos/Page_/button__1'))
 
-WebUI.setText(findTestObject('Object Repository/addNewClassValidDataPos/Page_/input__name'), 'زيوت الزيتون')
+WebUI.setText(findTestObject('Object Repository/addNewClassValidDataPos/Page_/input__name'), 'سمن روابى نباتى ')
 
 WebUI.click(findTestObject('Object Repository/addNewClassValidDataPos/Page_/button__1_2'))
 

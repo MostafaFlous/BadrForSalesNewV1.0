@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/AddNewClass/Page_albadr home page/
 
 WebUI.click(findTestObject('Object Repository/AddNewClass/Page_/button__1'))
 
-WebUI.setText(findTestObject('Object Repository/AddNewClass/Page_/input__name'), 'منظفات')
+WebUI.setText(findTestObject('Object Repository/AddNewClass/Page_/input__name'), 'لحوم مثلجه')
 
 WebUI.click(findTestObject('Object Repository/AddNewClass/Page_/input__arrange_type'))
 

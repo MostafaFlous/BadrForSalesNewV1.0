@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>اضافة تصنيف فرعى ويجب تغيير اسم التصنيف الرعى فى كل مره ولا يجب التكرار حتى لا تفشل المحاولة</description>
+   <name>AddSubCategoryValidDataPosTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5211e02d-4c46-4ac6-8daf-d4c5d4773f59</testCaseGuid>
+</TestCaseEntity>
