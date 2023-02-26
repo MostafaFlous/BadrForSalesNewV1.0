@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>974a9b2a-04a6-4f8e-92f2-e04be4cf8f26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.d-block.w-100.btn-xlg.rounded-10.auth-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ff63d45-6f34-4594-a740-3226b0d78d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>055081ca-d255-4321-986a-9ab881c4f833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary d-block w-100 btn-xlg rounded-10 auth-submit</value>
+      <webElementGuid>cde57dbd-1761-46b4-b383-62d3a4ecbc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                
+                                دخول
+                            </value>
+      <webElementGuid>dc509ae0-1074-4ed6-80fa-cb38eab2fe71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;global-main&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 offset-md-2&quot;]/div[@class=&quot;login-content&quot;]/div[@class=&quot;login-content__form&quot;]/form[1]/div[@class=&quot;form-group row mt-5&quot;]/div[@class=&quot;col-md-6 col-12&quot;]/button[@class=&quot;btn btn-primary d-block w-100 btn-xlg rounded-10 auth-submit&quot;]</value>
+      <webElementGuid>72cc52dc-bf46-47cb-bfe5-e4016dac9660</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>6bc8cfe1-59ab-41c9-bac1-75a12e566bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نسيت كلمه المرور'])[1]/following::button[1]</value>
+      <webElementGuid>85ad8086-414d-4087-879d-d06d3341a5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تذكرني دائما'])[1]/following::button[1]</value>
+      <webElementGuid>cefb82fe-1692-444b-bff7-8a5e97a24286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='انشاء حساب جديد'])[1]/preceding::button[1]</value>
+      <webElementGuid>86555f4d-43bc-4bb9-8556-062f761a82ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نسيت كلمه المرور'])[2]/preceding::button[1]</value>
+      <webElementGuid>c4f31971-3581-4940-955d-4fe367e5d480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='دخول']/parent::*</value>
+      <webElementGuid>e8871902-a96a-47a2-9d15-5f26b01d7783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>cb966ae4-60d9-45eb-b524-ba2764f5b3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                                
+                                دخول
+                            ' or . = '
+                                
+                                دخول
+                            ')]</value>
+      <webElementGuid>7c64883e-2d12-436b-bbb5-18205230ad7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

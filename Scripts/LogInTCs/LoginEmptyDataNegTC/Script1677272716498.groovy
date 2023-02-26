@@ -19,15 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/new_account')
+WebUI.openBrowser('')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__shop_id'), '858585')
+WebUI.navigateToUrl('https://badrforsales-test.souqalbadr.top/login')
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__store_name'), 'الرضا')
+WebUI.click(findTestObject('Object Repository/LogInEmptyDataNegRepo/Page_/button_'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__user_name'), 'test101')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/RegisterNewUserRepo/Page_/input__password'), 'RigbBhfdqODKcAsiUrg+1Q==')
-
-WebUI.click(findTestObject('Object Repository/RegisterNewUserRepo/Page_/button_'))
+WebUI.closeBrowser()
 
